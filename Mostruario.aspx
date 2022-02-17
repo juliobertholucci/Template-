@@ -186,14 +186,14 @@
         }
 
         .modal-content {
-            background-image: url(http://localhost:52231/IMG/modalFUNDO.jpg);
+            background-image: url(/IMG/modalFUNDO.jpg);
             color: white;
         }
 
         .imgTOPO {
             height: 90vh;
             width: 100%;
-            background-image: url(http://localhost:52231/IMG4/topo.jpg);
+            background-image: url(/IMG4/topo.jpg);
             font-family:'Lucida Handwriting';
             color:white;
             font-size:45px;
@@ -281,7 +281,7 @@
         .backs {
             height: 130vh;
             width: 100%;
-            background-image: url(http://localhost:52231/IMG4/backplate.jpg);
+            background-image: url(/IMG4/backplate.jpg);
             display: none;
         }
 

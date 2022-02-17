@@ -186,7 +186,7 @@
         }
 
         .modal-content {
-            background-image: url(http://localhost:52231/IMG/modalFUNDO.jpg);
+            background-image: url(/IMG/modalFUNDO.jpg);
             color: white;
         }
 
@@ -207,7 +207,7 @@
         .esquerda {
             width: 50%;
             height: 100%;
-            background-image: url(http://localhost:52231/IMG3/wood2.jpg);
+            background-image: url(/IMG3/wood2.jpg);
             padding-top: 70px;
             
         }
@@ -262,7 +262,7 @@
         .galerias {
             height: 130vh;
             width: 100%;
-            background-image: url(http://localhost:52231/IMG3/papelSlider.jpg);
+            background-image: url(/IMG3/papelSlider.jpg);
             background-color: red;
         }
 

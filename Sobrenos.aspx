@@ -181,7 +181,7 @@
         }
 
         .modal-content {
-            background-image: url(http://localhost:52231/IMG/modalFUNDO.jpg);
+            background-image: url(/IMG/modalFUNDO.jpg);
             color: white;
         }
 
@@ -195,7 +195,7 @@
 
         .esquerda {
             width: 60%;
-            background-image: url(http://localhost:52231/IMG2/imagemtopo.jpg);
+            background-image: url(/IMG2/imagemtopo.jpg);
             height: 100vh;
            
         }
@@ -253,7 +253,7 @@
             background-color: black;
             height: 190vh;
             width: 100%;
-            background-image: url(http://localhost:52231/IMG2/backEQUIP.jpg);
+            background-image: url(/IMG2/backEQUIP.jpg);
         }
 
         .card {
